@@ -16,10 +16,10 @@
         android:layout_height="wrap_content">
 
         <android.support.v7.widget.RecyclerView
-            android:id="@+id/forecast_list14"
-
+            android:id="@+id/forecast_list_new"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp">
 
         </android.support.v7.widget.RecyclerView>
 
