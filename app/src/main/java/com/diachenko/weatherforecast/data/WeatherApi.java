@@ -19,4 +19,6 @@ public interface WeatherApi {
     LiveData<Resource<WeatherForecastResponse>> getForecastByCoordinates(@Query("lat")Double lat,
                                                                          @Query("lon")Double lon);
 
+
+
 }
